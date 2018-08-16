@@ -9,8 +9,8 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/inline.b6ca39bb03cb3ba4329d.bundle.js",
-        "/main.e73bd034e58bd20fbb40.bundle.js",
+        "/inline.e045bfee5525530d02c7.bundle.js",
+        "/main.9ac00e7980578f0794c7.bundle.js",
         "/polyfills.fe38ae24433f721834b7.bundle.js",
         "/styles.db299e21fbfc999c8aec.bundle.css"
       ],
@@ -22,7 +22,6 @@
       "updateMode": "prefetch",
       "urls": [
         "/assets/db.json",
-        "/assets/img/android-144.png",
         "/assets/img/brasil-icon-128x128.png",
         "/assets/img/brasil-icon-32x32.png",
         "/assets/img/brasil-icon-48x48.png",
@@ -36,18 +35,17 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/inline.b6ca39bb03cb3ba4329d.bundle.js": "f5267a9b379723bddc959b28a093e33cfb5c07a5",
+    "/inline.e045bfee5525530d02c7.bundle.js": "0f45ac042d0a579975ee90e3a13788bc181587b4",
     "/assets/db.json": "16dd249221087239f3957841cdd9e16be65daed0",
-    "/main.e73bd034e58bd20fbb40.bundle.js": "ce448b3f184e3a5da55a5eaad7b7ccdb14032f3d",
-    "/assets/img/android-144.png": "e52606c2f2286c517a952ae3c74b5a984cbce63a",
-    "/polyfills.fe38ae24433f721834b7.bundle.js": "7b6b620a728c5d42615a23ee0732ebb9964b60a4",
+    "/main.9ac00e7980578f0794c7.bundle.js": "4b0d0a3c87afde578fd435082f8654d6dc8dba41",
     "/assets/img/brasil-icon-128x128.png": "c75f0284a1c86fcd26aacbe724df8c14e95a727d",
-    "/styles.db299e21fbfc999c8aec.bundle.css": "213852f7c161cd9c4e89603eda3abe50277bb2b0",
+    "/polyfills.fe38ae24433f721834b7.bundle.js": "7b6b620a728c5d42615a23ee0732ebb9964b60a4",
     "/assets/img/brasil-icon-32x32.png": "45dda693ceb85b6fd7abdc0d56852bf0ad70376e",
-    "/favicon.ico": "45dda693ceb85b6fd7abdc0d56852bf0ad70376e",
+    "/styles.db299e21fbfc999c8aec.bundle.css": "213852f7c161cd9c4e89603eda3abe50277bb2b0",
     "/assets/img/brasil-icon-48x48.png": "48ffc457eb14d9e83d04dae5c2c3e8ca095309b4",
-    "/index.html": "dff881b724428d281c027b7cc0841da5bf352c13",
+    "/favicon.ico": "45dda693ceb85b6fd7abdc0d56852bf0ad70376e",
     "/assets/img/brasil-icon.png": "50a83e29617317bcb62bf0ac143af8fb54bfb684",
+    "/index.html": "cb1c355adf4525206042275e14a0ba2b3aaa15c3",
     "/assets/ssl/server.crt": "17699c5883da690e7337ee100ba99e0b366f4f30",
     "/assets/ssl/server.key": "3c33e9b3177659de013ff270d22b5b74750fc8e8",
     "/assets/ssl/server.pem": "28eadad77d5dfa7412f57f1a773619b54b79440f"
