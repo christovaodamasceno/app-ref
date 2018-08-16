@@ -1,0 +1,238 @@
+{
+  "pessoas": [
+    {
+      "id": 1,
+      "nome": "João da Silva Xavier",
+      "cpf": "999.999.999-99",
+      "email": "joao@gmail.comwrew",
+      "salario": "39.000,49"
+    },
+    {
+      "id": 3,
+      "nome": "Maria da Silva",
+      "cpf": "333.333.333-33",
+      "email": "maria@gmail.com",
+      "salario": "5.878.800,00"
+    },
+    {
+      "id": 4,
+      "nome": "Christovão Sobreira Damasceno",
+      "cpf": "334.353.543-53",
+      "email": "christovao.damasceno@ctis.com.br",
+      "salario": "2.323,367"
+    },
+    {
+      "id": 5,
+      "nome": "Fulano de Tal",
+      "cpf": "555.555.555-55",
+      "email": "fulano@gmail.com",
+      "salario": "33.333,33"
+    },
+    {
+      "id": 6,
+      "nome": "Flávia Vanessa Nunes Martins",
+      "cpf": null,
+      "email": "flaviavana@gmail.com",
+      "salario": "5.200,00"
+    },
+    {
+      "id": 7,
+      "nome": "dsadsad",
+      "cpf": "000.000.001-91",
+      "email": "asdsada@dasd.com",
+      "salario": "sa"
+    }
+  ],
+  "estados": [
+    {
+      "id": 1,
+      "nome": "Ceará"
+    },
+    {
+      "id": 2,
+      "nome": "Distrito Federal "
+    },
+    {
+      "id": 3,
+      "nome": "Minas Gerais"
+    },
+    {
+      "id": 4,
+      "nome": "São Paulo"
+    },
+    {
+      "id": 5,
+      "nome": "Rio de Janeiro"
+    },
+    {
+      "id": 6,
+      "nome": "Paraíba"
+    },
+    {
+      "id": 7,
+      "nome": "dsadsad"
+    },
+    {
+      "id": 8,
+      "nome": "dasdsadsadsa"
+    }
+  ],
+  "cidades": [
+    {
+      "id": 1,
+      "nome": "Brasilia",
+      "estado": 2
+    },
+    {
+      "id": 2,
+      "nome": "Fortaleza",
+      "estado": 1
+    },
+    {
+      "id": 3,
+      "nome": "Belo Horizonte",
+      "estado": 3
+    },
+    {
+      "id": 4,
+      "nome": "São Paulo",
+      "estado": 4
+    },
+    {
+      "id": 6,
+      "nome": "Campina Grande",
+      "estado": 6
+    },
+    {
+      "id": 7,
+      "nome": "Betim",
+      "estado": 3
+    },
+    {
+      "id": 8,
+      "nome": "Caucaia",
+      "estado": 1
+    },
+    {
+      "id": 9,
+      "nome": "Samambaia Norte",
+      "estado": 2
+    },
+    {
+      "id": 10,
+      "nome": "Águas Claras",
+      "estado": 2
+    },
+    {
+      "id": 11,
+      "nome": "Taguatinga Sul",
+      "estado": 2
+    },
+    {
+      "id": 12,
+      "nome": "João Pessoa",
+      "estado": 6
+    },
+    {
+      "id": 13,
+      "nome": "Rio de Janeiro",
+      "estado": 5
+    }
+  ],
+  "processos": [
+    {
+      "id": 1,
+      "processo": "20189012345",
+      "periodoInicio": "2018-03-21T03:00:00.000Z",
+      "periodoFim": "2018-03-21T03:00:00.000Z",
+      "dataPedido": "2018-03-20T03:00:00.000Z",
+      "dataAnaliseDeferimento": "2018-03-20T03:00:00.000Z",
+      "dataAnalisePagamento": "2018-03-22T03:00:00.000Z",
+      "situacao": "Todos",
+      "nomeRequerente": "Fulano de Tal",
+      "cpf": "000.000.000-00",
+      "dataNascimento": "2018-03-20T03:00:00.000Z",
+      "sexo": "M",
+      "estadoCivil": "Casado",
+      "endereco": "Rua Qualquer",
+      "bairro": "Tanto Faz",
+      "cep": "45.890-345",
+      "municipio": "Caucaia",
+      "uf": "CE",
+      "profissao": "Analista de Sistemas",
+      "nacionalidade": "Brasileira",
+      "fone": "(61) 983456-7890",
+      "email": "fulano@gmail.com",
+      "banco": "001",
+      "agencia": "12345-6",
+      "conta": "789022-0",
+      "analise": "Pendente",
+      "justificativa": "Justificativa",
+      "autorizado": "José o Chefe",
+      "dae": [
+        {
+          "parcela": "1",
+          "dae": "2018.22.04758004-54",
+          "dataPagamento": "2017-12-05T03:00:00.000Z",
+          "valorDae": "936,05",
+          "valorRestituir": "900,00",
+          "restituido": "905,00"
+        },
+        {
+          "parcela": "2",
+          "dae": "2018.22.04758004-51",
+          "dataPagamento": "2017-12-05T03:00:00.000Z",
+          "valorDae": "200,00",
+          "valorRestituir": "150,00",
+          "restituido": "155,00"
+        }
+      ]
+    }
+  ],
+  "funcionarios": [
+    {
+      "id": 1,
+      "nome": "aaa",
+      "sobrenome": "aaa",
+      "dataNascimento": "2018-07-07T03:00:00.000Z",
+      "email": "aaa@gmail.com",
+      "salario": "1.222,22",
+      "planoSaude": true,
+      "dependente": [
+        {
+          "nome": "xxx"
+        },
+        {
+          "nome": "aaa"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "Flávia Vanessa",
+      "sobrenome": "Martins",
+      "dataNascimento": null,
+      "email": "flavia.martins@mctic.gov.br",
+      "salario": "1.234,567",
+      "planoSaude": true,
+      "dependente": [
+        {
+          "nome": "Teste 01"
+        },
+        {
+          "nome": "Zzz"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nome": "Lucas",
+      "sobrenome": "Silva",
+      "dataNascimento": "2018-08-09T03:00:00.000Z",
+      "email": "lsilva@gmail.com",
+      "salario": "6,000",
+      "planoSaude": true,
+      "dependente": null
+    }
+  ]
+}

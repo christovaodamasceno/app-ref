@@ -1,0 +1,53 @@
+{
+  "configVersion": 1,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/inline.1a46b2a7be73576f3813.bundle.js",
+        "/main.2b9ba671113483dd4a65.bundle.js",
+        "/polyfills.fe38ae24433f721834b7.bundle.js",
+        "/styles.db299e21fbfc999c8aec.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/db.json",
+        "/assets/img/brasil-icon-128x128.png",
+        "/assets/img/brasil-icon-32x32.png",
+        "/assets/img/brasil-icon-48x48.png",
+        "/assets/img/brasil-icon.png",
+        "/assets/ssl/server.crt",
+        "/assets/ssl/server.key",
+        "/assets/ssl/server.pem"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/inline.1a46b2a7be73576f3813.bundle.js": "bff87a62c5d9691fa859494a3af7b4ac12f01d3a",
+    "/assets/db.json": "16dd249221087239f3957841cdd9e16be65daed0",
+    "/main.2b9ba671113483dd4a65.bundle.js": "176cb02de82ad83a360ef1f865fdc1e01ecb7221",
+    "/assets/img/brasil-icon-128x128.png": "c75f0284a1c86fcd26aacbe724df8c14e95a727d",
+    "/polyfills.fe38ae24433f721834b7.bundle.js": "7b6b620a728c5d42615a23ee0732ebb9964b60a4",
+    "/assets/img/brasil-icon-32x32.png": "45dda693ceb85b6fd7abdc0d56852bf0ad70376e",
+    "/styles.db299e21fbfc999c8aec.bundle.css": "213852f7c161cd9c4e89603eda3abe50277bb2b0",
+    "/assets/img/brasil-icon-48x48.png": "48ffc457eb14d9e83d04dae5c2c3e8ca095309b4",
+    "/favicon.ico": "45dda693ceb85b6fd7abdc0d56852bf0ad70376e",
+    "/assets/img/brasil-icon.png": "50a83e29617317bcb62bf0ac143af8fb54bfb684",
+    "/index.html": "4116b4d5ab975c9923af439f8190d6e29adf5486",
+    "/assets/ssl/server.crt": "17699c5883da690e7337ee100ba99e0b366f4f30",
+    "/assets/ssl/server.key": "3c33e9b3177659de013ff270d22b5b74750fc8e8",
+    "/assets/ssl/server.pem": "28eadad77d5dfa7412f57f1a773619b54b79440f"
+  }
+}
